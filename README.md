@@ -1,4 +1,4 @@
-# LangChain
+# LangChain Q\&A and Summarization
 
 This project demonstrates two powerful applications of the LangChain library:
 
