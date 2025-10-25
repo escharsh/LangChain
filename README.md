@@ -83,8 +83,14 @@ LangChain/
 ├── app.py              # Main script for the Document Q&A application
 ├── app2.py             # Script for the YouTube video summarizer
 ├── requirements.txt    # A list of all the Python packages required
-└── README.md           # This file
-```
+└── README.md           # This file```
+
+-----
+
+## 📄 License
+
+This project is open source and available under the MIT License.
+
 -----
 
 ## 👨‍💻 Author
@@ -92,9 +98,3 @@ LangChain/
 **I'm Harshvardhan Follow me on**
 💼 GitHub: [@escharsh](https://github.com/escharsh)
 📧 LinkedIn: [Harsh Vardhan](https://www.linkedin.com/in/harsh-vardhan-6748a632a/)
-
------
-
-## 📄 License
-
-This project is open source and available under the MIT License.
